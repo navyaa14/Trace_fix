@@ -1,0 +1,2 @@
+anthropic>=0.40.0   # only needed for llm_judge._default_anthropic_transport
+boto3>=1.34.0       # only needed for llm_judge.bedrock_transport
